@@ -2,7 +2,7 @@
 
 namespace SafeFilenames
 {
-    static public class SafeFilenames
+    static public class SafeFilename
     {
         /// <summary>
         /// Gets a safe version of the string for use in a filename.

@@ -1,6 +1,6 @@
 ﻿namespace SafeFilenames
 {
-    static public class SafeFilenamesExtension
+    static public class SafeFilenameExtension
     {
         /// <summary>
         /// Gets a safe version of the string for use in a filename.
@@ -10,7 +10,7 @@
         /// <returns>Safe filename.</returns>
         static public string GetSafeFilename(this string filename, string replacement = "_")
         {
-            return SafeFilenames.GetSafeFilename(filename, replacement);
+            return SafeFilename.GetSafeFilename(filename, replacement);
         }
 
     }
