@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SafeFilenames")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Brian M. Powell")]
 [assembly: AssemblyProduct("SafeFilenames")]
-[assembly: AssemblyCopyright("Copyright ©2015, Brian M. Powell.")]
+[assembly: AssemblyCopyright("Copyright ©2015, Brian M. Powell")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
